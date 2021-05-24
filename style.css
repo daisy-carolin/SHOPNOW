@@ -1,0 +1,111 @@
+.topnav{
+    text-align: right;
+    flex: 1;
+    color:black;
+
+}
+
+.topnav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 6px 12px;
+
+}
+
+.topnav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: 200;
+    padding: 2% 8%;
+    color:whitesmoke;
+     
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-style: normal;
+}
+body{
+    background-color: rgb(4, 53, 4);
+}
+.web{
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+
+}
+
+ 
+  .mine{
+    color: whitesmoke;
+  }
+  .note{
+    font-style: italic;
+    color: whitesmoke;
+    text-align: center;
+    
+  }
+  h2{
+    font-size: xx-large;
+    text-align: center;
+    color: whitesmoke;
+  }
+  .column{
+    float: right;
+    width: 50%;
+
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+
+}
+.row{
+    display: flex;
+}
+h3{
+  color: whitesmoke;
+}
+.mine link{
+  color: whitesmoke;
+}
+.fa-facebook {
+  
+  color: white;
+}
+.fa-twitter {
+
+  color: white;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-Instagram {
+ 
+  color: white;
+}
+address {
+  display: block;
+  font-style: italic;
+  width: 50%;
+}
+*{
+  box-sizing: border-box;
+
+}
+button {
+  background-color: whitesmoke;
+  color: white;
+  padding: 12px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+}
+
+
+  
