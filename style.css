@@ -2,6 +2,7 @@
     text-align: right;
     flex: 1;
     color:black;
+   
 
 }
 
@@ -9,6 +10,7 @@
     list-style: none;
     display: inline-block;
     padding: 6px 12px;
+   
 
 }
 
@@ -19,7 +21,7 @@
     font-weight: 200;
     padding: 2% 8%;
     color:whitesmoke;
-     
+   
 }
 h1{
     text-align: center;

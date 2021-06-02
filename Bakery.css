@@ -1,0 +1,28 @@
+body{
+    color: whitesmoke;
+}
+
+
+h1{
+    
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+}
+.low{
+    color: whitesmoke;
+}
+.column{
+    float: left;
+    width: 50%;
+
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+
+}
+.row{
+    display: flex;
+}
